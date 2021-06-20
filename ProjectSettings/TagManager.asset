@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ingredient
+  - ImageTarget
+  - IngredientCanvas
+  - Active
+  - useButton
+  - remButton
+  - ActiveCanvas
   layers:
   - Default
   - TransparentFX

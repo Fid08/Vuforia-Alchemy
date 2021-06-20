@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CoolingStoneNew" size="1.000000 1.000000" />
+    <ImageTarget name="HeatingStone" size="1.000000 1.001957" />
+    <ImageTarget name="CoolingStone" size="1.000000 1.001957" />
+    <ImageTarget name="RustyPowder" size="1.000000 0.955000" />
+    <ImageTarget name="MountainRoseSeeds" size="1.000000 1.012586" />
+    <ImageTarget name="mandrakeExtract" size="1.000000 0.822222" />
+    <ImageTarget name="UniversalFlask" size="1.000000 1.631707" />
+  </Tracking>
+</QCARConfig>
